@@ -19,11 +19,11 @@ export default {
 
   methods: {
     onSucces () {
-      this.$feedback.add({ type: 'success', message: 'SUCCESS' })
+      this.$feedback.add({ type: 'success', message: 'A Folha de pagamento', highlighted: 'foi reprovada' })
     },
 
     onInfo () {
-      this.$feedback.add({ type: 'info', message: 'INFO' })
+      this.$feedback.add({ type: 'info', message: 'INFO', highlighted: 'MANÉ' })
     },
 
     onError () {
