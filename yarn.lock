@@ -7922,10 +7922,10 @@ vm-browserify@0.0.4:
   dependencies:
     indexof "0.0.1"
 
-vue-coe-feedback@^0.0.1:
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/vue-coe-feedback/-/vue-coe-feedback-0.0.1.tgz#447f336d117bd6e75f7f4013941e6a529bdf47d2"
-  integrity sha512-J4ZBcEF4HwADEhYgvYuHq+98u67SdPfa402ZyqQtsFymJD6aOhJYEr3pz7kN/frui3ueF+USr0y3Tluv1BaWpA==
+vue-coe-feedback@^0.0.5:
+  version "0.0.5"
+  resolved "https://registry.yarnpkg.com/vue-coe-feedback/-/vue-coe-feedback-0.0.5.tgz#24d0f3f68b071a673f81db343abc59b11ebdbd97"
+  integrity sha512-mTgVczB/wzjL69gZYhesBqpObLBtlRlCkfBf9qZuY7VySPEQtvk19ZcFJCCCcJ5IaOLYfrKeBpGVzTVYsX1EnQ==
 
 vue-eslint-parser@^2.0.3:
   version "2.0.3"

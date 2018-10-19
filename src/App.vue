@@ -11,8 +11,8 @@
 </template>
 
 <script>
-import CoeFeedbacks from './lib/components/CoeFeedbacks'
-// import { CoeFeedbacks } from 'vue-coe-feedback'
+// import CoeFeedbacks from './lib/components/CoeFeedbacks'
+import { CoeFeedbacks } from 'vue-coe-feedback'
 
 export default {
   components: { CoeFeedbacks },
